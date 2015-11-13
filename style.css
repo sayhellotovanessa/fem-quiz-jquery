@@ -1,12 +1,18 @@
+/* Importind google fonts */
+
+@import url(https://fonts.googleapis.com/css?family=Istok+Web|Lora);
+
 /* Body Main Style */
 
 body {
 	background: url(bg.jpg);
+	font-family: Lora, sans-serif;
 }
 
 h1 {
 	color: #CE4778;
 	text-align: center;
+	font-family: Istok, sans-serif;
 }
 
 a {
@@ -27,6 +33,8 @@ a {
 .question {
 	color: #432930;
 }
+
+
 
 /* Quiz Syle */
 
